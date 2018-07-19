@@ -1,0 +1,6 @@
+puts "XOXO Gossip Girl"
+char_1="Serena"
+char_2="Blaire"
+char_3="Nate"
+puts "A love triangle has formed between #{char_1}, #{char_2}, and #{char_3}"
+puts "However, #{char_3} only likes #{char_1}, making #{char_2} angry at #{char1}"
